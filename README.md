@@ -175,12 +175,11 @@ and supporting data-driven decision making.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Yogapmana&show_icons=true&hide_border=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=Yogapmana&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogapmana&layout=compact&hide_border=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogapmana&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
   />
 </p>
