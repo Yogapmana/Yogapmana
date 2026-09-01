@@ -175,12 +175,15 @@ and supporting data-driven decision making.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Yogapmana&show_icons=true&theme=tokyonight&hide_border=true"
+    src="./profile/stats.svg"
     height="180"
+    alt="GitHub Stats"
   />
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogapmana&layout=compact&theme=tokyonight&hide_border=true"
+    src="./profile/top-langs.svg"
     height="180"
+    alt="Top Languages"
   />
 </p>
 
